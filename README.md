@@ -1,0 +1,2 @@
+# mysqlTableStructure
+导出mysql某个数据库内所有表的结构信息
